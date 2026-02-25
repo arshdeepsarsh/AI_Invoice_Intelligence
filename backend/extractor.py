@@ -2,10 +2,9 @@ import google.generativeai as genai
 import os
 import json
 
-# Get API key from environment variable
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("models/gemini-1.5-flash")
 
 def extract_invoice_data(text):
 
