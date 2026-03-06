@@ -1,5 +1,18 @@
 # 🚀 AI Invoice Intelligence Platform
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?logo=tailwindcss)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black)
+![LLM](https://img.shields.io/badge/LLM-Qwen2%20%7C%20Llama3-purple)
+![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen)
+![OCR](https://img.shields.io/badge/OCR-PyMuPDF-orange)
+![Status](https://img.shields.io/badge/Project-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
+
 A full-stack AI-powered invoice automation system built using:
 
 - 🧠 Ollama (Local LLM - Qwen2 / Llama3)
